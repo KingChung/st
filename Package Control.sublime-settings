@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Backbone.js",
+		"Bootstrap 3 Snippets",
+		"Color Highlighter",
+		"Delete Current File",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Godef",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"JSHint",
+		"Markdown to Clipboard",
+		"Material Theme",
+		"Modific",
+		"Package Control",
+		"plist",
+		"Quick File Creator",
+		"Quick File Move",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"Underscore.js Snippets",
+		"Underscorejs snippets",
+		"Vintageous"
+	]
+}
