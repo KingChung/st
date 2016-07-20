@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+define(
+	[
+		'backbone',
+		'underscore',
+		'doT',
+		'text!templates/${1:path}'
+	], function(Backbone, _, doT, ViewTemplate) {
+		return Backbone.View.extend({
+			template: doT.template(ViewTemplate),
+			initialize: function(){
+				${2:initialize}
+			}
+		});
+	}
+)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bbview</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
