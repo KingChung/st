@@ -17,8 +17,10 @@
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JSHint",
+		"Less Tabs",
 		"Markdown to Clipboard",
 		"Material Theme",
 		"Modific",
@@ -33,7 +35,6 @@
 		"SublimeLinter-jshint",
 		"SublimeREPL",
 		"Terminal",
-		"Underscore.js Snippets",
 		"Underscorejs snippets",
 		"Vintageous"
 	]

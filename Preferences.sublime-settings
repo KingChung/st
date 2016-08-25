@@ -4,6 +4,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Less Tabs",
 		"Vintage"
 	],
 	"material_theme_accent_red": true,

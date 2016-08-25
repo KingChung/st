@@ -1,0 +1,27 @@
+<snippet>
+	<tabTrigger>bs.confirm</tabTrigger>
+    <content>
+        <![CDATA[
+bootbox.confirm({
+    target: e.currentTarget,
+    title: ${1:title},
+    message: ${2:message}
+}, {
+    confirm: { //key cannot change
+        label: ${3:label},
+        className: "btn btn-primary",
+        callback: function(e) {
+            ${4:handler}
+        }
+    },
+    cancel: {
+        callback: function() {}
+    }
+})
+]]>
+    </content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>hello</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
