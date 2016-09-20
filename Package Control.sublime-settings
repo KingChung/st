@@ -20,6 +20,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JSHint",
+		"Lazy Backbone.js",
 		"Less Tabs",
 		"Markdown to Clipboard",
 		"Material Theme",
@@ -34,7 +35,6 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeREPL",
-		"Terminal",
 		"Underscorejs snippets",
 		"Vintageous"
 	]
