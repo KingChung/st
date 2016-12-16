@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+		{{=_.T("${1: section}", "${2: text}")}}
+]]></content>
+	<tabTrigger>T</tabTrigger>
+	<scope>source.html</scope>
+</snippet>
