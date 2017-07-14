@@ -5,15 +5,16 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Less Tabs",
-		"Vintage"
+		"Less Tabs"
 	],
 	"material_theme_accent_red": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
+	"show_definitions": true,
 	"theme": "Material-Theme.sublime-theme",
+	"tooltips": true,
 	"vintageous_use_sys_clipboard": true,
 	"word_wrap": true
 }
